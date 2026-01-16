@@ -1,0 +1,10 @@
+body {
+    background-color: paleturquoise
+}
+
+h1 {
+    text-align: center;
+    background-color: deepskyblue;
+    border: 5px solid;
+    font-size: 400%;
+}
